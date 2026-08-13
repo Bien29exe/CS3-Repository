@@ -10,3 +10,8 @@ What I eat
 This was edited on a rainy Thursday morning. Hindi kasi nagdeclare si Mayor.
 This is a cat
 ![Siamese Cat](cat.PNG)
+### This is a table sample
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
