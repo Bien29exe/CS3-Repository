@@ -46,4 +46,4 @@ CT Skill
 Example Solution
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
- ![My flowchart](flowchart.PNG "My flowchart")
+ ![My flowchart](../images/flowchart.PNG "My flowchart")
