@@ -8,3 +8,5 @@ What I eat
 3. Pasta (Carbonara or Spaghetti or Pesto)
 ### Slightly smaller heading
 This was edited on a rainy Thursday morning. Hindi kasi nagdeclare si Mayor.
+This is a cat
+![Siamese Cat](cat.PNG)
