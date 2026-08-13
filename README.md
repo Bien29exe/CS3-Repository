@@ -9,7 +9,7 @@ What I eat
 ### Slightly smaller heading
 This was edited on a rainy Thursday morning. Hindi kasi nagdeclare si Mayor.
 This is a cat
-![Siamese Cat](cat.PNG)
+![Siamese Cat](images/cat.PNG)
 ### This is a table sample
 | Syntax | Description |
 | ----------- | ----------- |
